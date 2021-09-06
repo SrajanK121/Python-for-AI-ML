@@ -1,0 +1,12 @@
+1001,Maggi,12,96
+1002,Bikaji Bhujia,200,6
+1003,Dairy Milk,10,400
+1004,Notebook A4 ,50,48
+1005,N95 Face Mask,50,100
+1006,Cookies,80,36
+1007,Coke,40,18
+1008,Detergent,20,200
+1009,Gillette Razor,90,40
+1010,Handkerchief,25,60
+1011,Bisleri,20,50
+1012,Rajinigandha,60,24
